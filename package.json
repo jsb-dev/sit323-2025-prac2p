@@ -1,0 +1,26 @@
+{
+  "name": "sit323-2025-prac2p",
+  "version": "1.0.0",
+  "description": "This is the public repo used for my submissions to the SIT323 unit for Deakin University.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsb-dev/sit323-2025-prac2p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsb-dev/sit323-2025-prac2p/issues"
+  },
+  "homepage": "https://github.com/jsb-dev/sit323-2025-prac2p#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
