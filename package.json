@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "This is the public repo used for my submissions to the SIT323 unit for Deakin University.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
